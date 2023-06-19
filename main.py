@@ -18,7 +18,7 @@ def get_headers():
 url = 'https://spb.hh.ru/search/vacancy'
 params = {
     'area': (1, 2),
-    'text': 'Flask Django',
+    'text': 'Flask Django Python',
     'page': 0,
     'items_on_page': 20
 }
